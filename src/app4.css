@@ -1,0 +1,12 @@
+.circle{
+  border:1px solid gray;
+  height:80px;
+  width:80px;
+  border-radius:50%;
+  position:relative;
+  top:30%;
+  left:30%;
+}
+.color{
+  background: gray;
+}

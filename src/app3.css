@@ -1,0 +1,14 @@
+.square{
+  border:1px solid gray;
+  height:60px;
+  width:60px;
+  position:relative;
+  left:20%;
+  top:30%;
+  transition:1s;
+}
+
+.active{
+  left:70%;
+  top:30%;
+}

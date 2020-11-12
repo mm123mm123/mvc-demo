@@ -1,0 +1,18 @@
+ol{
+  display: flex;
+}
+li{
+  width:50%;
+}
+.tab-bar li{
+  border:1px solid gray;
+}
+.selected{
+  background:yellow;
+}
+.tab-content li{
+  display:none;
+}
+li.active{
+  display:block;
+}
